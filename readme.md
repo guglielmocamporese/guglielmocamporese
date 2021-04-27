@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-#### I like creating neural nets for solving all the problems 😛
+#### I like designing neural nets for solving all the problems 😛
