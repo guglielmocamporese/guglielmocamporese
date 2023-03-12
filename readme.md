@@ -6,10 +6,10 @@ Hi there 👋 - I'm Guglielmo Camporese and I'm a highly motivated researcher wo
 | - | - | - | - |
 
 ### work experience
-* Research Intern · **Disney Research Studios** · Zurich (CH) · 04-07/23
-* Applied Scientist Intern · **Amazon Web Services AI Labs** · Seattle (WA) · 12/21-09/22
-* Applied Scientist Intern · **Amazon Alexa AI** · Turin (IT) · 06-09/20
-* Computer Vision and Deep Learning Engineer · **Aquifi Inc.** · Palo Alto (CA) · 11/2018-10/2019
+* Research Intern · **Disney Research Studios** · Zurich, Switzerland · 04-07/23
+* Applied Scientist Intern · **Amazon Web Services AI Labs** · Seattle, Washington · 12/21-09/22
+* Applied Scientist Intern · **Amazon Alexa AI** · Turin, Italy · 06-09/20
+* Computer Vision and Deep Learning Engineer · **Aquifi Inc.** · Palo Alto, California · 11/2018-10/2019
 
 ### education
 * Ph.D. in Brain, Mind and Computer Science, University of Padova, Italy · 09/2019-02/2023
