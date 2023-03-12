@@ -2,7 +2,7 @@
 
 Hi there 👋 - I'm Guglielmo Camporese and I'm a highly motivated researcher working in computer vision and deep learning! 
 
-| [homepage](https://guglielmocamporese.github.io/static/index.html) | [linkedin](https://www.linkedin.com/in/guglielmocamporese/) | [twitter](https://guglielmocamporese.github.io/static/index.html) | [cv](https://guglielmocamporese.github.io/static/static/guglielmo_camporese_cv.pdf) |
+| [homepage](https://guglielmocamporese.github.io/static/index.html) | [linkedin](https://www.linkedin.com/in/guglielmocamporese/) | [twitter](https://twitter.com/gucamporese/) | [cv](https://guglielmocamporese.github.io/static/static/guglielmo_camporese_cv.pdf) |
 | - | - | - | - |
 
 ### work experience
