@@ -13,8 +13,8 @@ Hi there 👋 - I'm Guglielmo Camporese and I'm a highly motivated researcher wo
 
 ### education
 * Ph.D. in Brain, Mind and Computer Science, University of Padova, Italy · 09/2019-02/2023
-* M.Sc in Telecommunication Engineering, University of Padova, Italy · 2016-2019
-* B.Sc in Information Engineering, University of Padova, Italy · 2012-2016
+* M.Sc. in Telecommunications Engineering, University of Padova, Italy · 2016-2019
+* B.Sc. in Information Engineering, University of Padova, Italy · 2012-2016
 
 
 
